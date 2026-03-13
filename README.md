@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siXthells-04
+- 👋 Hi, I’m @Nimesh Nirmal
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning full stack web devlopment
 - 💞️ I’m looking to collaborate on ...
